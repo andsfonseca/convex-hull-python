@@ -10,8 +10,8 @@ Inicialmente este trabalho foi realizado para a cadeira de Geometria Computacion
  - Foi usado a biblioteca **tkinter** para visualização
  - Foi usado a biblioteca **timer** para contagem de tempo
  - A classe **ConvexHull** contém os métodos principais utilizados
- - O arquivo **example.py** mostra um experimento com um arquivo
- - O arquivo **analyse.py** mostra um experimentos com pontos aleatórios
+ - O arquivo **example.py** mostra um experimento com arquivos
+ - O arquivo **analyse.py** mostra um experimento com pontos aleatórios
 
 ## Uso
 
